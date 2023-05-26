@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kikyo-chan&show_icons=true&theme=radical)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kikyo-chan)](https://github.com/Kikyo-chan/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -1,11 +1,9 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kikyo-chan&show_icons=true&theme=radical)
-<!--
-**Kikyo-chan/Kikyo-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kikyo-chan&show_icons=true&theme=radical)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kikyo-chan)](https://github.com/Kikyo-chan/github-readme-stats)
+<!--
+**Kikyo-chan/Kikyo-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
